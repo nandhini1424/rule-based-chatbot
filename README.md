@@ -49,5 +49,9 @@
     Bot: To make pasta: 1. Boil water. 2. Cook pasta for 8-10 minutes. 3. Drain and serve.
     You: bye
     Bot: Goodbye! Have a great day!
+```
 
+## ✏️ Author
+
+Built and documented by [nandhini1424](https://github.com/nandhini1424)
     
