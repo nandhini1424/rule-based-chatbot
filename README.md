@@ -33,7 +33,7 @@
    cd rule-based-chatbot
 2. Run the chatbot:
    ```bash
-   python chatbot.py
+   python main.py
 
 ## 💡 Example Conversation
   ```bash
